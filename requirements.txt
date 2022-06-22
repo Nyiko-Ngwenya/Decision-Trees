@@ -6,6 +6,6 @@ pydotplus==2.0.2
 scikit-learn==0.21.3
 seaborn==0.9.0
 sklearn==0.0
-numpy==1.17.2
+numpy==1.22.0
 pydot==1.4.1
 
